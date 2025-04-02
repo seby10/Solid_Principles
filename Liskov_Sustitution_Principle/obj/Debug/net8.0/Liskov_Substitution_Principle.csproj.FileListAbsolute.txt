@@ -1,0 +1,14 @@
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\obj\Debug\net8.0\Liskov_Substitution_Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\obj\Debug\net8.0\Liskov_Substitution_Principle.AssemblyInfoInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\obj\Debug\net8.0\Liskov_Substitution_Principle.AssemblyInfo.cs
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\obj\Debug\net8.0\Liskov_Substitution_Principle.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\bin\Debug\net8.0\Liskov_Substitution_Principle.exe
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\bin\Debug\net8.0\Liskov_Substitution_Principle.deps.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\bin\Debug\net8.0\Liskov_Substitution_Principle.runtimeconfig.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\bin\Debug\net8.0\Liskov_Substitution_Principle.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\bin\Debug\net8.0\Liskov_Substitution_Principle.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\obj\Debug\net8.0\Liskov_Substitution_Principle.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\obj\Debug\net8.0\refint\Liskov_Substitution_Principle.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\obj\Debug\net8.0\Liskov_Substitution_Principle.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\obj\Debug\net8.0\Liskov_Substitution_Principle.genruntimeconfig.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Liskov_Sustitution_Principle\obj\Debug\net8.0\ref\Liskov_Substitution_Principle.dll

@@ -1,0 +1,14 @@
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\bin\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.exe
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\bin\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.deps.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\bin\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.runtimeconfig.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\bin\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\bin\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.AssemblyInfoInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.AssemblyInfo.cs
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\refint\Dependency_Inversion_Principle_Correct_2.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.genruntimeconfig.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\ref\Dependency_Inversion_Principle_Correct_2.dll

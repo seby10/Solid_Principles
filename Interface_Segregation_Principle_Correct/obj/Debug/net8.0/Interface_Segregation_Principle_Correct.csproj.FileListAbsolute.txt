@@ -1,0 +1,14 @@
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\bin\Debug\net8.0\Interface_Segregation_Principle_Correct.exe
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\bin\Debug\net8.0\Interface_Segregation_Principle_Correct.deps.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\bin\Debug\net8.0\Interface_Segregation_Principle_Correct.runtimeconfig.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\bin\Debug\net8.0\Interface_Segregation_Principle_Correct.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\bin\Debug\net8.0\Interface_Segregation_Principle_Correct.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\obj\Debug\net8.0\Interface_Segregation_Principle_Correct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\obj\Debug\net8.0\Interface_Segregation_Principle_Correct.AssemblyInfoInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\obj\Debug\net8.0\Interface_Segregation_Principle_Correct.AssemblyInfo.cs
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\obj\Debug\net8.0\Interface_Segregation_Principle_Correct.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\obj\Debug\net8.0\Interface_Segregation_Principle_Correct.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\obj\Debug\net8.0\refint\Interface_Segregation_Principle_Correct.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\obj\Debug\net8.0\Interface_Segregation_Principle_Correct.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\obj\Debug\net8.0\Interface_Segregation_Principle_Correct.genruntimeconfig.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Interface_Segregation_Principle_Correct\obj\Debug\net8.0\ref\Interface_Segregation_Principle_Correct.dll

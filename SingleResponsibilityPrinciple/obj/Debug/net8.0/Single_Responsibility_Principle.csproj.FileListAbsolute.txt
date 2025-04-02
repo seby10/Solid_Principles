@@ -1,0 +1,14 @@
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\bin\Debug\net8.0\Single_Responsibility_Principle.exe
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\bin\Debug\net8.0\Single_Responsibility_Principle.deps.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\bin\Debug\net8.0\Single_Responsibility_Principle.runtimeconfig.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\bin\Debug\net8.0\Single_Responsibility_Principle.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\bin\Debug\net8.0\Single_Responsibility_Principle.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\obj\Debug\net8.0\Single_Responsibility_Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\obj\Debug\net8.0\Single_Responsibility_Principle.AssemblyInfoInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\obj\Debug\net8.0\Single_Responsibility_Principle.AssemblyInfo.cs
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\obj\Debug\net8.0\Single_Responsibility_Principle.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\obj\Debug\net8.0\Single_Responsibility_Principle.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\obj\Debug\net8.0\refint\Single_Responsibility_Principle.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\obj\Debug\net8.0\Single_Responsibility_Principle.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\obj\Debug\net8.0\Single_Responsibility_Principle.genruntimeconfig.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SingleResponsibilityPrinciple\obj\Debug\net8.0\ref\Single_Responsibility_Principle.dll

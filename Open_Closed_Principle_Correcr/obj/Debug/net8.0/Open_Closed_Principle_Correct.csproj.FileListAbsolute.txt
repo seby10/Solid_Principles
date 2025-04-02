@@ -1,0 +1,14 @@
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\bin\Debug\net8.0\Open_Closed_Principle_Correct.exe
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\bin\Debug\net8.0\Open_Closed_Principle_Correct.deps.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\bin\Debug\net8.0\Open_Closed_Principle_Correct.runtimeconfig.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\bin\Debug\net8.0\Open_Closed_Principle_Correct.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\bin\Debug\net8.0\Open_Closed_Principle_Correct.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\obj\Debug\net8.0\Open_Closed_Principle_Correct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\obj\Debug\net8.0\Open_Closed_Principle_Correct.AssemblyInfoInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\obj\Debug\net8.0\Open_Closed_Principle_Correct.AssemblyInfo.cs
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\obj\Debug\net8.0\Open_Closed_Principle_Correct.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\obj\Debug\net8.0\Open_Closed_Principle_Correct.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\obj\Debug\net8.0\refint\Open_Closed_Principle_Correct.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\obj\Debug\net8.0\Open_Closed_Principle_Correct.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\obj\Debug\net8.0\Open_Closed_Principle_Correct.genruntimeconfig.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Open_Closed_Principle_Correcr\obj\Debug\net8.0\ref\Open_Closed_Principle_Correct.dll
