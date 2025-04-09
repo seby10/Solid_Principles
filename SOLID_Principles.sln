@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_Inversion_Princi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_Integral", "SOLID_Integral\SOLID_Integral.csproj", "{FEF3E2A3-F1AA-46A0-AF69-9C4A6F046DBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fisei.uta.edu.ec.utils", "fisei.uta.edu.ec.utils\fisei.uta.edu.ec.utils.csproj", "{DB022235-6FDA-4B2E-BE42-61DB5007F8FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{FEF3E2A3-F1AA-46A0-AF69-9C4A6F046DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEF3E2A3-F1AA-46A0-AF69-9C4A6F046DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEF3E2A3-F1AA-46A0-AF69-9C4A6F046DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB022235-6FDA-4B2E-BE42-61DB5007F8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB022235-6FDA-4B2E-BE42-61DB5007F8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB022235-6FDA-4B2E-BE42-61DB5007F8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB022235-6FDA-4B2E-BE42-61DB5007F8FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

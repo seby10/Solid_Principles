@@ -12,3 +12,4 @@ C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Single_Responsib
 C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Single_Responsibility_Principle_Correct\obj\Debug\net8.0\Single_Responsibility_Principle_Correct.pdb
 C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Single_Responsibility_Principle_Correct\obj\Debug\net8.0\Single_Responsibility_Principle_Correct.genruntimeconfig.cache
 C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Single_Responsibility_Principle_Correct\obj\Debug\net8.0\ref\Single_Responsibility_Principle_Correct.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Single_Responsibility_Principle_Correct\obj\Debug\net8.0\Single_Responsibility_Principle_Correct.sourcelink.json

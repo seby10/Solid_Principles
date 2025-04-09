@@ -12,3 +12,6 @@ C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inver
 C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.pdb
 C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.genruntimeconfig.cache
 C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\ref\Dependency_Inversion_Principle_Correct_2.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\bin\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.xml
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.sourcelink.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\Dependency_Inversion_Principle_Correct_2\obj\Debug\net8.0\Dependency_Inversion_Principle_Correct_2.xml

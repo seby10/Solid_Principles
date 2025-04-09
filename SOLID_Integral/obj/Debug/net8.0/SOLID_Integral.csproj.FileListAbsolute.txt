@@ -1,0 +1,15 @@
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\bin\Debug\net8.0\SOLID_Integral.exe
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\bin\Debug\net8.0\SOLID_Integral.deps.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\bin\Debug\net8.0\SOLID_Integral.runtimeconfig.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\bin\Debug\net8.0\SOLID_Integral.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\bin\Debug\net8.0\SOLID_Integral.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.AssemblyInfoInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.AssemblyInfo.cs
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.sourcelink.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\refint\SOLID_Integral.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.genruntimeconfig.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\ref\SOLID_Integral.dll

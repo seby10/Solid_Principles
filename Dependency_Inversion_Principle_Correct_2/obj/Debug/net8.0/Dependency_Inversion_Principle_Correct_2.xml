@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dependency_Inversion_Principle_Correct_2</name>
+    </assembly>
+    <members>
+        <member name="M:Dependency_Inversion_Principle_Correct_2.MobileDeveloper.Develop">
+            <summary>
+            hola me llamo Leo Barrros
+            </summary>
+        </member>
+    </members>
+</doc>
