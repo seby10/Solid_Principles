@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using fisei.uta.edu.ec.utils.SRP;
 
-namespace SOLID_Integral
+namespace fisei.uta.edu.ec.utils.OCP
 {
     public class ReportGenerator
     {

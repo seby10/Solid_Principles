@@ -13,3 +13,7 @@ C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\o
 C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.pdb
 C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.genruntimeconfig.cache
 C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\ref\SOLID_Integral.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\bin\Debug\net8.0\fisei.uta.edu.ec.utils.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\bin\Debug\net8.0\fisei.uta.edu.ec.utils.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_Integral.csproj.AssemblyReference.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\SOLID_Integral\obj\Debug\net8.0\SOLID_In.722E6760.Up2Date

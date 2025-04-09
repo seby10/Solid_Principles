@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "fisei.uta.edu.ec.utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/fisei.uta.edu.ec.utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/fisei.uta.edu.ec.utils.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "fisei.uta.edu.ec.utils/1.0.0": {
+      "type": "project",
+      "path": "../fisei.uta.edu.ec.utils/fisei.uta.edu.ec.utils.csproj",
+      "msbuildProject": "../fisei.uta.edu.ec.utils/fisei.uta.edu.ec.utils.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "fisei.uta.edu.ec.utils >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\sebas\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sebas\\Escritorio\\VIDA\\5to SEMESTRE\\PS\\SOLID_Principles\\fisei.uta.edu.ec.utils\\fisei.uta.edu.ec.utils.csproj": {
+              "projectPath": "C:\\Users\\sebas\\Escritorio\\VIDA\\5to SEMESTRE\\PS\\SOLID_Principles\\fisei.uta.edu.ec.utils\\fisei.uta.edu.ec.utils.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,12 @@
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\bin\Debug\net8.0\fisei.uta.edu.ec.utils.deps.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\bin\Debug\net8.0\fisei.uta.edu.ec.utils.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\bin\Debug\net8.0\fisei.uta.edu.ec.utils.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\obj\Debug\net8.0\fisei.uta.edu.ec.utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\obj\Debug\net8.0\fisei.uta.edu.ec.utils.AssemblyInfoInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\obj\Debug\net8.0\fisei.uta.edu.ec.utils.AssemblyInfo.cs
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\obj\Debug\net8.0\fisei.uta.edu.ec.utils.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\obj\Debug\net8.0\fisei.uta.edu.ec.utils.sourcelink.json
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\obj\Debug\net8.0\fisei.uta.edu.ec.utils.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\obj\Debug\net8.0\refint\fisei.uta.edu.ec.utils.dll
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\obj\Debug\net8.0\fisei.uta.edu.ec.utils.pdb
+C:\Users\sebas\Escritorio\VIDA\5to SEMESTRE\PS\SOLID_Principles\fisei.uta.edu.ec.utils\obj\Debug\net8.0\ref\fisei.uta.edu.ec.utils.dll

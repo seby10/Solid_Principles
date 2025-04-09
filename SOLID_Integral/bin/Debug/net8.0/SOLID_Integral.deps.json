@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "SOLID_Integral/1.0.0": {
+        "dependencies": {
+          "fisei.uta.edu.ec.utils": "1.0.0"
+        },
         "runtime": {
           "SOLID_Integral.dll": {}
+        }
+      },
+      "fisei.uta.edu.ec.utils/1.0.0": {
+        "runtime": {
+          "fisei.uta.edu.ec.utils.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "SOLID_Integral/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "fisei.uta.edu.ec.utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
